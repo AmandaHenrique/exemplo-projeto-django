@@ -1,0 +1,6 @@
+Subindo no git com git ignore e como baixar em casa
+
+
+Criar arquivo .gitignore na raiz do projeto
+
+criar requirements.txt
