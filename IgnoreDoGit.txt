@@ -6,3 +6,6 @@ Criar arquivo .gitignore na raiz do projeto
 criar requirements.txt
 subir no git e dar um pip freeze > requirements.txt
 
+Para baixar em casa:
+git clone 
+depois ir na pasta do projeto e dar um pip install -r requirements.txt para ele ler as dependencias de lá
